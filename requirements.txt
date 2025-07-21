@@ -1,0 +1,9 @@
+streamlit
+joblib
+PyMuPDF
+PyPDF2
+scikit-learn
+numpy
+pandas
+plotly
+streamlit-option-menu
